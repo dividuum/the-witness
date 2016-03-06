@@ -1,4 +1,4 @@
-= The Witness Maze Puzzle
+# The Witness Maze Puzzle
 
 Quick and dirty cheat tool for the maze part of
 the challenge in The Witness (http://the-witness.net/).
